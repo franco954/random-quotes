@@ -54,7 +54,7 @@ export default function Card() {
           </button>
         </div>
         <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-  <a href="https://twitter.com/intent/tweet" target="_blank" id="tweet-quote">Share on Twitter</a>
+  <a href="https://twitter.com/intent/tweet" target="_blank" rel="noreferrer" id="tweet-quote">Share on Twitter</a>
 </div>
       </div>
     </div>
